@@ -2,3 +2,7 @@ kaggle.json
 weights/
 __pycache__/
 .ipynb_checkpoints/
+# Videos and outputs
+*.mp4
+data/sample_videos/
+data/adas_output.mp4
